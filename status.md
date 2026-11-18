@@ -1,7 +1,7 @@
 Done
 
 I created my Dart project
-Readme
+Setup: repo, README.md, personal block in both Dart files
 
 In progress
 
