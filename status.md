@@ -1,17 +1,9 @@
-My assignment status
+Done
 
-Reg no: 26495
-D: 5
-T: 95
+I created my Dart project
+Readme
 
-WHAT I COMPLETED:
-
-.i cteated my Dart project
-
-
-WHAT I'M NOT YET COMPLETED: 
-
-. In progress
+In progress
 
 A1: Not started.
 
@@ -43,4 +35,7 @@ F: Not started.
 
 G: Not started.
 
-. and final testing
+And final testing
+
+Stuck on:
+none
